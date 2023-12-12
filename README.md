@@ -1,4 +1,4 @@
-### Hi there, my name is Vlaidmir 👋
+### Hi there, my name is Vladimir 👋
 
 - 🌱 I’m currently learning: `Development of web services`
 - 📫 How to reach me: `vova.izmodenov@mail.ru`  
